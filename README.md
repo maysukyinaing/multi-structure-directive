@@ -1,6 +1,6 @@
 # MultiStructureDirective
 
-[!Multi Structure Directive](ss/multi-directive.png)](https://github.com/maysukyinaing/multi-structure-directive/blob/master/ss/multi-directive.png)
+[![Multi Structure Directive](ss/multi-directive.png)](https://github.com/maysukyinaing/multi-structure-directive/blob/master/ss/multi-directive.png)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
